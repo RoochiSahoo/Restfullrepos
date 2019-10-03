@@ -16,7 +16,7 @@
 				jersey.config.server.provider.packages
 			</param-name>
 			<param-value>
-				com.zensar.webservices.hello
+				com.zensar.webservices.user
 			</param-value>
 
 		</init-param>
